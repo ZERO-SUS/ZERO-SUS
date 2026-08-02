@@ -20,4 +20,4 @@
 
 ## 📊 GitHub Stats
 
-![STATUS]((https://gitfut.com/ZERO-SUS)_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-SUS&layout=compact&theme=tokyonight)
+![STATUS]([(https://gitfut.com/ZERO-SUS)_icons=true&theme=tokyonight](https://gitfut.com/ZERO-SUS)) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-SUS&layout=compact&theme=tokyonight)
