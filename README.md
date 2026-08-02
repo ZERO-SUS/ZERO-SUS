@@ -2,6 +2,6 @@
 
 <h1 align="center">    
   <a href="https://youtu.be/@ZEROSUS-s7i">
-    🧊:
+    :🧊:
   </a>
 </h1>
