@@ -10,7 +10,7 @@
 
 <br><br>
 
-# 🧊 ZERO SUS
+# 🧊 𝗭𝗘𝗥𝗢 𝗦𝗨𝗦
 
 ### Graphic Designer • Programmer • Front-End Developer
 
