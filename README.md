@@ -10,7 +10,9 @@
 
 <br><br>
 
-# 🧊 𝙕𝙀𝙍𝙊 𝙎𝙐𝙎
+<p align="left">
+  <img src="https://img.shields.io/badge/𝙕𝙀𝙍𝙊%20𝙎𝙐𝙎-FF0000?style=for-the-badge&logoColor=white&labelColor=8B0000" />
+</p>
 
 ### Graphic Designer • Programmer • Front-End Developer
 
