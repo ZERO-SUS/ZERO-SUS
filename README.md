@@ -8,7 +8,7 @@
 - 🔥 Building cool projects
 - 🎨 Graphic Designer
 - 🤝 Open to collaboration
-- 📫 Reach me: youremail@gmail.com
+- 📫 Reach me out in Discord : zero_sus
 
 ---
 
@@ -18,6 +18,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![STATUS]([(https://gitfut.com/ZERO-SUS)_icons=true&theme=tokyonight](https://gitfut.com/ZERO-SUS)) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-SUS&layout=compact&theme=tokyonight)
