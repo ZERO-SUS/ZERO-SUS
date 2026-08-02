@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://www.youtube.com/@ZEROSUS-s7i">
-  <img src="https://raw.githubusercontent.com/appcypher/appcypher/main/matrix.svg" width="100%" alt="Matrix Animation"/>
+  <img src="https://raw.githubusercontent.com/ZERO-SUS/ZERO-SUS/refs/heads/main/Red_matrix.svg" width="100%" alt="Matrix Animation"/>
 </a>
 
 <br><br>
