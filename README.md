@@ -41,6 +41,6 @@ and turning ideas into reality.
 
 ---
 
-> **"Reverse engineer your limits."**
+> **"𝙄𝙛 𝙮𝙤𝙪𝙧 𝙢𝙞𝙣𝙙 𝙛𝙪𝙘𝙠𝙨 𝙮𝙤𝙪, 𝙩𝙝𝙚𝙣 𝙧𝙚𝙫𝙚𝙧𝙨𝙚-𝙛𝙪𝙘𝙠 𝙮𝙤𝙪𝙧 𝙢𝙞𝙣𝙙"**
 
 </div>
