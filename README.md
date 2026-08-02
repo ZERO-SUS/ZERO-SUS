@@ -10,9 +10,9 @@
 
 <br><br>
 
-<p align="left">
-  <img src="assets/zero-sus-red.svg" alt="ZERO SUS" height="60">
-</p>
+<h1 align="left">
+  🩸 <span style="color:#ff0000;">𝙕𝙀𝙍𝙊 𝙎𝙐𝙎</span>
+</h1>
 
 
 
