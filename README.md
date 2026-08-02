@@ -26,7 +26,7 @@ and turning ideas into reality.
 </a>
 
 <a href="https://www.youtube.com/@ZEROSUS-s7i">
-<img src="https://img.shields.io/badge/YouTube-ZERO%20SUS-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 <a href="https://zero-sus.github.io/portfolio/">
