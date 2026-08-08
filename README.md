@@ -31,7 +31,7 @@ and turning ideas into reality.
     <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<a href="https://zero-sus.github.io/portfolio/">
+<a href="https://zero-sus.github.io/Profile/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
