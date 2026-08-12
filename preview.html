@@ -1,0 +1,23 @@
+<title>3D Contribution Graph — B&W preview</title>
+<style>
+  body{margin:0;font-family:system-ui,Arial,sans-serif}
+  h2{margin:0 0 8px;font-size:15px;font-weight:600}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:0}
+  .panel{padding:22px}
+  .light{background:#ffffff;color:#111}
+  .dark{background:#0d1117;color:#eee}
+  img{width:100%;height:auto;display:block}
+  .tag{font-size:12px;opacity:.6;margin-top:6px}
+</style>
+<div class="row">
+  <div class="panel light">
+    <h2>Light background (GitHub light theme)</h2>
+    <img src="light.svg" alt="light preview">
+    <div class="tag">dark graphics on transparent → reads on white</div>
+  </div>
+  <div class="panel dark">
+    <h2>Dark background (GitHub dark theme)</h2>
+    <img src="dark.svg" alt="dark preview">
+    <div class="tag">inverted: light graphics on transparent → reads on black</div>
+  </div>
+</div>
