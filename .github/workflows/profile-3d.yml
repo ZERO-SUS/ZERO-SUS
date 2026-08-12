@@ -1,0 +1,43 @@
+name: GitHub Profile 3D Contrib
+
+# Regenerates the black & white, auto-inverting 3D contribution graph
+# from ZERO-SUS's own live GitHub activity.
+
+on:
+  # Refresh every 5 minutes (the fastest interval GitHub Actions allows)
+  schedule:
+    - cron: "*/5 * * * *"
+  # Allow manual "Run workflow" from the Actions tab
+  workflow_dispatch:
+  # Also build on first push of these files
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution SVG (black & white, auto-inverting)
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}   # -> ZERO-SUS (live data)
+          SETTING_JSON: profile-3d.json              # -> our grayscale/dual theme
+
+      - name: Commit updated graph
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update 3D contribution graph (b/w)"
+            git push
+          fi
