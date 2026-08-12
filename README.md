@@ -46,3 +46,24 @@ and turning ideas into reality.
 > **"𝙄𝙛 𝙮𝙤𝙪𝙧 𝙢𝙞𝙣𝙙 𝙛𝙪𝙘𝙠𝙨 𝙮𝙤𝙪, 𝙩𝙝𝙚𝙣 𝙧𝙚𝙫𝙚𝙧𝙨𝙚-𝙛𝙪𝙘𝙠 𝙮𝙤𝙪𝙧 𝙢𝙞𝙣𝙙"**
 
 </div>
+
+<!-- ========================================================= -->
+<!--         3D CONTRIBUTION GRAPH  (LIVE • AUTO B&W)          -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+### 📊 3D Contribution Graph
+
+<!--
+  LIVE: this SVG is regenerated from ZERO-SUS's real GitHub activity by the
+  workflow at .github/workflows/profile-3d.yml (no green — pure black & white).
+  AUTO-INVERT: the SVG carries its own `prefers-color-scheme` media query, so it
+  renders dark graphics on light backgrounds and inverts to light graphics on dark
+  backgrounds automatically — matching each viewer's GitHub theme.
+-->
+<a href="https://github.com/ZERO-SUS">
+  <img src="./profile-3d-contrib/profile-bw-dual.svg" width="100%" alt="ZERO-SUS 3D contribution graph — black & white, auto-inverting" />
+</a>
+
+</div>
