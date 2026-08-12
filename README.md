@@ -53,7 +53,7 @@ and turning ideas into reality.
 
 <div align="center">
 
-### 📊 3D Contribution Graph
+
 
 <!--
   LIVE: this SVG is regenerated from ZERO-SUS's real GitHub activity by the
